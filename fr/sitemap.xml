@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://asln-digital.github.io/fr/</loc>
+    <loc>https://asln.digital/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asln-digital.github.io/"
+                href="https://asln.digital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asln-digital.github.io/fr/"
+                href="https://asln.digital/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://asln-digital.github.io/fr/categories/</loc>
+    <loc>https://asln.digital/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asln-digital.github.io/categories/"
+                href="https://asln.digital/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asln-digital.github.io/fr/categories/"
+                href="https://asln.digital/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://asln-digital.github.io/fr/series/</loc>
+    <loc>https://asln.digital/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asln-digital.github.io/series/"
+                href="https://asln.digital/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asln-digital.github.io/fr/series/"
+                href="https://asln.digital/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://asln-digital.github.io/fr/tags/</loc>
+    <loc>https://asln.digital/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asln-digital.github.io/tags/"
+                href="https://asln.digital/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asln-digital.github.io/fr/tags/"
+                href="https://asln.digital/fr/tags/"
                 />
   </url>
   
